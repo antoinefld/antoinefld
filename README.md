@@ -168,13 +168,13 @@ My long-term vision is to build tools that automate engineering workflows using:
 
 ## 🤝 Connect With Me
 
-📧 Email: [fillaudeau.antoine@gmail.com](mailto:your.email@example.com)
+📧 Email: [fillaudeau.antoine@gmail.com](mailto:fillaudeau.antoine@gmail.com)
 
-💼 LinkedIn: https://www.linkedin.com/in/antoine-fillaudeau-9428a3239/
+💼 [LinkedIn](https://www.linkedin.com/in/antoine-fillaudeau-9428a3239/)
 
-🌐 Portfolio: https://antoinefld.github.io/curriculum_vitae/
+🌐 [Portfolio](https://antoinefld.github.io/curriculum_vitae/)
 
-🚀 Orqea: https://orqea.dev
+🚀 [Orqea](https://orqea.dev)
 
 ---
 
