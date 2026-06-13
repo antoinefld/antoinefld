@@ -1,181 +1,81 @@
 # 👋 Hi, I'm Antoine Fillaudeau
 
-### Software Engineer · Cloud · DevOps · AI Automation
+## Software Engineer · AI Systems · Cloud & DevOps Automation
 
-I design, automate and scale modern software systems.
+I build systems that automate software delivery, infrastructure, and AI workflows.
 
 My focus is simple:
-
-> Build software that automates work, reduces complexity and helps teams move faster.
-
-Currently working on enterprise software projects while building **Orqea**, an AI-powered workflow orchestration platform.
+> Design software that removes repetitive work and turns ideas into production-ready systems.
 
 ---
 
-## 🚀 About Me
+## 🚀 Core Focus
 
-* 💻 Software Engineer
-* ☁️ Cloud & DevOps enthusiast
-* 🤖 AI Automation & Agent Engineering
-* ♿ Accessibility & Sustainable Software Design
-* 🌍 Based in Lyon, France
-* 🇨🇭 Open to opportunities in Switzerland
-* 🚗 Driving License (B)
-
-I enjoy designing systems that connect software engineering, automation and AI to remove repetitive work and improve developer productivity.
+- AI Systems Engineering (Agents, Context Engineering, LLM workflows)
+- Cloud-native Architecture (GCP, Docker, Kubernetes)
+- Backend Engineering (Java, Spring Boot, microservices)
+- Automation & CI/CD pipelines
+- Security-aware system design (OAuth2, IAM, Keycloak)
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 What I'm Building
 
-### Backend
+### 🚀 Orqea
+AI-powered workflow orchestration platform  
+→ https://orqea.dev
 
-* Java
-* Spring Boot
-* Node.js
-* Express
-* REST APIs
+Transforms software delivery into an automated pipeline:
 
-### Frontend
-
-* Angular
-* React
-* React Native
-* TypeScript
-* JavaScript
-
-### Cloud & DevOps
-
-* Docker
-* Kubernetes
-* GitHub Actions
-* CI/CD
-* Google Cloud Platform (GCP)
-* Cloud Run
-* Cloud SQL
-
-### Security
-
-* OAuth2
-* OpenID Connect (OIDC)
-* Keycloak
-* Authentication & Authorization
-
-### AI & Automation
-
-* AI Agents
-* Context Engineering
-* LLM Integrations
-* Workflow Automation
-* Prompt Engineering
-* MCP Concepts
+`Task → Context → AI Planning → Execution → PR → Deployment`
 
 ---
 
-## 🚧 Current Project
+## 🏢 Experience
 
-### Orqea
-
-An AI-powered workflow orchestration platform designed to automate software delivery workflows.
-
-#### Features
-
-* ✅ AI Agents
-* ✅ Context Engineering
-* ✅ GitHub Integration
-* ✅ GitLab Integration
-* ✅ CI/CD Automation
-* ✅ Task Orchestration
-* ✅ Jira Integration
-* ✅ Trello Integration
-* 🚧 Notion Integration
-* 🚧 Stripe Integration
-
-### Goal
-
-Transform a task into:
-
-```text
-Task
- ↓
-Context Collection
- ↓
-AI Execution
- ↓
-Code Generation
- ↓
-Tests
- ↓
-Pull Request
- ↓
-Deployment
-```
+### Capgemini — Software Engineer Intern
+- Built enterprise internal system
+- Designed backend architecture (Java / Spring Boot)
+- Implemented authentication (Keycloak, OAuth2, OpenID Connect)
+- Worked on security, GDPR compliance, and accessibility (WCAG / RGAA)
+- Contributed to system design, UX, and database modeling
+- Self-trained on Cloud & DevOps (Kubernetes, CI/CD, GCP)
 
 ---
 
-## 📚 Certifications & Learning
+## ☁️ Currently Exploring
 
-### Certified
-
-* ♻️ Sustainable Software / Eco-design
-* ♿ Digital Accessibility
-
-### Currently Learning
-
-* Kubernetes
-* Cloud Architecture
-* DevSecOps
-* AI Agent Engineering
-* Platform Engineering
+- Cloud Architecture (GCP)
+- GPU/CPU AI infrastructure
+- LLM optimization techniques
+- Context engineering & agent systems
+- Distributed systems design
 
 ---
 
-## 🌍 Languages
+## 🌍 Open to Opportunities
 
-| Language   | Level  |
-| ---------- | ------ |
-| French     | Native |
-| English    | B2     |
-| German     | B1     |
-| Russian    | Basic  |
-| Lithuanian | Basic  |
+- AI Engineer
+- Cloud / DevOps Engineer
+- Backend Engineer (AI-focused)
+
+📍 France → Open to Switzerland 🇨🇭 relocation
 
 ---
 
-## 🎯 Interests
+## 🧰 Tech Stack
 
-* Cloud Computing
-* DevOps
-* Platform Engineering
-* AI Automation
-* Accessibility
-* Sustainable Software Design
-* Entrepreneurship
+Java · Spring Boot · TypeScript · Node.js  
+Docker · Kubernetes · GitHub Actions · CI/CD  
+Google Cloud Platform · Cloud Run · Cloud SQL  
+OAuth2 · OpenID Connect · Keycloak  
+LLMs · AI Agents · Context Engineering · RAG
 
 ---
 
-## 📈 What I'm Building
+## 📫 Contact
 
-My long-term vision is to build tools that automate engineering workflows using:
-
-* Cloud Infrastructure
-* AI Agents
-* Context Engineering
-* Continuous Delivery
-* Intelligent Orchestration
-
----
-
-## 🤝 Connect With Me
-
-📧 Email: [fillaudeau.antoine@gmail.com](mailto:fillaudeau.antoine@gmail.com)
-
-💼 [LinkedIn](https://www.linkedin.com/in/antoine-fillaudeau-9428a3239/)
-
-🌐 [Portfolio](https://antoinefld.github.io/curriculum_vitae/)
-
-🚀 [Orqea](https://orqea.dev)
-
----
-
-### "Automate the repetitive. Focus on the creative."
+- Email: fillaudeau.antoine@gmail.com
+- LinkedIn: https://linkedin.com
+- Orqea: https://orqea.dev
+- Website: https://antoinefld.github.io/curriculum_vitae
