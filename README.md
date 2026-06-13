@@ -1,81 +1,153 @@
-# 👋 Hi, I'm Antoine Fillaudeau
+# Antoine Fillaudeau
 
-## Software Engineer · AI Systems · Cloud & DevOps Automation
+Software Engineer | AI Systems | Cloud & DevOps
 
-I build systems that automate software delivery, infrastructure, and AI workflows.
+I build software systems that automate engineering workflows.
 
-My focus is simple:
-> Design software that removes repetitive work and turns ideas into production-ready systems.
+My work sits at the intersection of:
 
----
+- AI Systems Engineering
+- Backend Development
+- Cloud Infrastructure
+- DevOps & Automation
 
-## 🚀 Core Focus
-
-- AI Systems Engineering (Agents, Context Engineering, LLM workflows)
-- Cloud-native Architecture (GCP, Docker, Kubernetes)
-- Backend Engineering (Java, Spring Boot, microservices)
-- Automation & CI/CD pipelines
-- Security-aware system design (OAuth2, IAM, Keycloak)
+Currently working on enterprise software projects at Capgemini while building Orqea, an AI-powered workflow orchestration platform.
 
 ---
 
-## 🧠 What I'm Building
+## Engineering Focus
 
-### 🚀 Orqea
-AI-powered workflow orchestration platform  
-→ https://orqea.dev
+### AI Systems
 
-Transforms software delivery into an automated pipeline:
+- AI Agents
+- Context Engineering
+- Prompt Engineering
+- RAG
+- Workflow Orchestration
+- LLM Integrations
 
-`Task → Context → AI Planning → Execution → PR → Deployment`
+### Software Engineering
+
+- Java
+- Spring Boot
+- REST APIs
+- System Design
+- Microservices
+
+### Cloud & DevOps
+
+- Docker
+- Kubernetes
+- CI/CD
+- GitHub Actions
+- Google Cloud Platform
+
+### Security
+
+- OAuth2
+- OpenID Connect
+- Keycloak
+- IAM
 
 ---
 
-## 🏢 Experience
+## 🚀 Featured Project
+
+### Orqea — AI Workflow Orchestration
+
+https://orqea.dev
+
+AI system that automates software delivery using context engineering and AI agents.
+
+Key areas:
+
+- Agent orchestration
+- Context engineering
+- CI/CD automation
+- GitHub & GitLab integrations
+- Cloud-native deployment
+
+Repository:
+
+https://github.com/antoinefld/orqea
+
+---
+
+## Professional Experience
 
 ### Capgemini — Software Engineer Intern
-- Built enterprise internal system
-- Designed backend architecture (Java / Spring Boot)
-- Implemented authentication (Keycloak, OAuth2, OpenID Connect)
-- Worked on security, GDPR compliance, and accessibility (WCAG / RGAA)
-- Contributed to system design, UX, and database modeling
-- Self-trained on Cloud & DevOps (Kubernetes, CI/CD, GCP)
+
+Working on an enterprise project estimation platform from initial design through implementation.
+
+Main contributions:
+
+- Backend architecture
+- Authentication & security
+- Data modeling
+- System design
+- Accessibility (WCAG / RGAA)
+- GDPR & privacy compliance
+- Technical documentation
 
 ---
 
-## ☁️ Currently Exploring
+## Certifications
 
-- Cloud Architecture (GCP)
-- GPU/CPU AI infrastructure
-- LLM optimization techniques
-- Context engineering & agent systems
-- Distributed systems design
+- Sustainable Software Engineering (Capgemini)
+- Accessibility & Inclusive Design
+- Google Cloud Certification (in progress)
 
 ---
 
-## 🌍 Open to Opportunities
+## Education
+
+### EPITECH
+
+Master's Degree in Information Technology
+
+### Erasmus Program — Lithuania
+
+Full academic year abroad.
+
+---
+
+## Languages
+
+- French — Native
+- English — Professional (B2)
+- German — Intermediate (B1)
+- Lithuanian — Basic
+- Russian — Basic
+
+---
+
+## Current Learning
+
+- Kubernetes
+- Cloud Architecture
+- Platform Engineering
+- AI Infrastructure
+- Distributed Systems
+
+---
+
+## Open To
 
 - AI Engineer
-- Cloud / DevOps Engineer
-- Backend Engineer (AI-focused)
+- Backend Engineer
+- Cloud Engineer
+- Platform Engineer
 
-📍 France → Open to Switzerland 🇨🇭 relocation
-
----
-
-## 🧰 Tech Stack
-
-Java · Spring Boot · TypeScript · Node.js  
-Docker · Kubernetes · GitHub Actions · CI/CD  
-Google Cloud Platform · Cloud Run · Cloud SQL  
-OAuth2 · OpenID Connect · Keycloak  
-LLMs · AI Agents · Context Engineering · RAG
+France 🇫🇷 → Open to Switzerland 🇨🇭
 
 ---
 
-## 📫 Contact
+## Contact
 
-- Email: fillaudeau.antoine@gmail.com
-- LinkedIn: https://linkedin.com
-- Orqea: https://orqea.dev
-- Website: https://antoinefld.github.io/curriculum_vitae
+LinkedIn: https://www.linkedin.com/in/antoine-fillaudeau-9428a3239/
+
+Website:
+https://antoinefld.github.io/curriculum_vitae/
+
+Email:
+fillaudeau.antoine@gmail.com
