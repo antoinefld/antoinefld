@@ -1,46 +1,76 @@
 # Antoine Fillaudeau
 
-Software Engineer | AI Systems | Cloud & DevOps
+Software Engineer focused on AI Systems, Cloud Architecture and DevOps Automation.
 
-I build software systems that automate engineering workflows.
+I am interested in a simple question:
 
-My work sits at the intersection of:
+How can we automate software engineering workflows using AI, cloud infrastructure and intelligent orchestration ?
 
-- AI Systems Engineering
-- Backend Development
-- Cloud Infrastructure
-- DevOps & Automation
+My work currently explores:
 
-Currently working on enterprise software projects at Capgemini while building Orqea, an AI-powered workflow orchestration platform.
+- AI Agents
+- Context Engineering
+- Cloud Architecture
+- Platform Engineering
+- DevOps Automation
 
 ---
 
-## Engineering Focus
+## Featured Work
+
+### 🧠 System Design Notes
+
+A public knowledge base documenting architecture decisions, engineering trade-offs and system design patterns.
+
+Topics include:
+
+- AI systems
+- RAG architectures
+- Multi-agent systems
+- Authentication & security
+- Cloud architectures
+- Kubernetes & deployment strategies
+- CI/CD patterns
+- Observability & monitoring
+
+---
+
+### 🚀 Orqea
+
+AI-native workflow orchestration platform.
+
+Orqea explores how AI agents, context engineering and cloud infrastructure can automate software delivery workflows.
+
+Focus areas:
+
+- AI agent orchestration
+- Context engineering
+- workflow automation
+- cloud execution strategies
+- CI/CD integration
+- observability-driven optimization
+
+🌐 https://orqea.dev
+
+---
+
+## Engineering Interests
 
 ### AI Systems
 
 - AI Agents
 - Context Engineering
-- Prompt Engineering
 - RAG
 - Workflow Orchestration
-- LLM Integrations
+- LLM Systems
 
-### Software Engineering
+### Cloud & Platform Engineering
 
-- Java
-- Spring Boot
-- REST APIs
-- System Design
-- Microservices
-
-### Cloud & DevOps
-
-- Docker
-- Kubernetes
-- CI/CD
-- GitHub Actions
 - Google Cloud Platform
+- Kubernetes
+- Distributed Systems
+- Infrastructure Design
+- Platform Engineering
 
 ### Security
 
@@ -49,52 +79,37 @@ Currently working on enterprise software projects at Capgemini while building Or
 - Keycloak
 - IAM
 
----
+### Software Engineering
 
-## 🚀 Featured Project
-
-### Orqea — AI Workflow Orchestration
-
-https://orqea.dev
-
-AI system that automates software delivery using context engineering and AI agents.
-
-Key areas:
-
-- Agent orchestration
-- Context engineering
-- CI/CD automation
-- GitHub & GitLab integrations
-- Cloud-native deployment
-
-Repository:
-
-https://github.com/antoinefld/orqea
+- Java
+- Spring Boot
+- TypeScript
+- REST APIs
+- System Design
 
 ---
 
 ## Professional Experience
 
-### Capgemini — Software Engineer Intern
+### Capgemini
 
-Working on an enterprise project estimation platform from initial design through implementation.
+Software Engineering Intern
 
-Main contributions:
+Contributing to an enterprise project estimation platform covering:
 
-- Backend architecture
-- Authentication & security
-- Data modeling
-- System design
-- Accessibility (WCAG / RGAA)
-- GDPR & privacy compliance
-- Technical documentation
+- system architecture
+- authentication & security
+- accessibility
+- data modeling
+- technical documentation
+- enterprise software delivery
 
 ---
 
 ## Certifications
 
-- Sustainable Software Engineering (Capgemini)
-- Accessibility & Inclusive Design
+- Sustainable Software Engineering
+- Digital Accessibility
 - Google Cloud Certification (in progress)
 
 ---
@@ -105,9 +120,9 @@ Main contributions:
 
 Master's Degree in Information Technology
 
-### Erasmus Program — Lithuania
+### Erasmus Programme
 
-Full academic year abroad.
+Academic year abroad in Lithuania
 
 ---
 
@@ -121,32 +136,24 @@ Full academic year abroad.
 
 ---
 
-## Current Learning
-
-- Kubernetes
-- Cloud Architecture
-- Platform Engineering
-- AI Infrastructure
-- Distributed Systems
-
----
-
 ## Open To
 
 - AI Engineer
-- Backend Engineer
+- Software Engineer
 - Cloud Engineer
 - Platform Engineer
 
-France 🇫🇷 → Open to Switzerland 🇨🇭
+🇫🇷 France  
+🇨🇭 Open to Switzerland
 
 ---
 
-## Contact
+## Connect
 
-LinkedIn: https://www.linkedin.com/in/antoine-fillaudeau-9428a3239/
+LinkedIn:
+https://www.linkedin.com/in/antoine-fillaudeau-9428a3239/
 
-Website:
+Portfolio:
 https://antoinefld.github.io/curriculum_vitae/
 
 Email:
